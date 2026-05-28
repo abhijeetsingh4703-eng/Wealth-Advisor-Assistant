@@ -1,0 +1,64 @@
+{
+  "CLT-001": [
+    {"id": "TXN-1001", "date": "2024-01-05", "type": "withdrawal", "amount": 5000, "category": "travel", "description": "International flight booking"},
+    {"id": "TXN-1002", "date": "2024-01-12", "type": "deposit", "amount": 23000, "category": "salary", "description": "Monthly salary deposit"},
+    {"id": "TXN-1003", "date": "2024-01-18", "type": "withdrawal", "amount": 4200, "category": "dining", "description": "Restaurant entertainment"},
+    {"id": "TXN-1004", "date": "2024-02-01", "type": "withdrawal", "amount": 125000, "category": "investment", "description": "Real estate down payment — LARGE"},
+    {"id": "TXN-1005", "date": "2024-02-08", "type": "deposit", "amount": 23000, "category": "salary", "description": "Monthly salary deposit"},
+    {"id": "TXN-1006", "date": "2024-02-15", "type": "withdrawal", "amount": 2800, "category": "utilities", "description": "Utility bills"},
+    {"id": "TXN-1007", "date": "2024-02-22", "type": "withdrawal", "amount": 890, "category": "groceries", "description": "Grocery shopping"},
+    {"id": "TXN-1008", "date": "2024-03-01", "type": "deposit", "amount": 23000, "category": "salary", "description": "Monthly salary deposit"},
+    {"id": "TXN-1009", "date": "2024-03-10", "type": "withdrawal", "amount": 52000, "category": "investment", "description": "Stock purchase — unusual spike"},
+    {"id": "TXN-1010", "date": "2024-03-18", "type": "withdrawal", "amount": 3100, "category": "healthcare", "description": "Medical expenses"},
+    {"id": "TXN-1011", "date": "2024-04-02", "type": "deposit", "amount": 23000, "category": "salary", "description": "Monthly salary deposit"},
+    {"id": "TXN-1012", "date": "2024-04-11", "type": "withdrawal", "amount": 750, "category": "entertainment", "description": "Streaming subscriptions"},
+    {"id": "TXN-1013", "date": "2024-04-20", "type": "withdrawal", "amount": 2100, "category": "travel", "description": "Weekend trip"},
+    {"id": "TXN-1014", "date": "2024-05-03", "type": "deposit", "amount": 23000, "category": "salary", "description": "Monthly salary deposit"},
+    {"id": "TXN-1015", "date": "2024-05-15", "type": "withdrawal", "amount": 88000, "category": "investment", "description": "Portfolio rebalancing — large withdrawal"}
+  ],
+  "CLT-002": [
+    {"id": "TXN-2001", "date": "2024-01-03", "type": "deposit", "amount": 12500, "category": "salary", "description": "Monthly salary"},
+    {"id": "TXN-2002", "date": "2024-01-10", "type": "withdrawal", "amount": 3200, "category": "rent", "description": "Monthly rent"},
+    {"id": "TXN-2003", "date": "2024-01-20", "type": "withdrawal", "amount": 15000, "category": "investment", "description": "Crypto purchase"},
+    {"id": "TXN-2004", "date": "2024-02-01", "type": "deposit", "amount": 12500, "category": "salary", "description": "Monthly salary"},
+    {"id": "TXN-2005", "date": "2024-02-14", "type": "withdrawal", "amount": 48000, "category": "investment", "description": "Startup seed investment — ANOMALY"},
+    {"id": "TXN-2006", "date": "2024-02-20", "type": "withdrawal", "amount": 1800, "category": "groceries", "description": "Grocery"},
+    {"id": "TXN-2007", "date": "2024-03-01", "type": "deposit", "amount": 12500, "category": "salary", "description": "Monthly salary"},
+    {"id": "TXN-2008", "date": "2024-03-08", "type": "withdrawal", "amount": 2500, "category": "dining", "description": "Restaurant"},
+    {"id": "TXN-2009", "date": "2024-03-22", "type": "deposit", "amount": 35000, "category": "bonus", "description": "Annual performance bonus"},
+    {"id": "TXN-2010", "date": "2024-04-01", "type": "deposit", "amount": 12500, "category": "salary", "description": "Monthly salary"},
+    {"id": "TXN-2011", "date": "2024-04-14", "type": "withdrawal", "amount": 900, "category": "entertainment", "description": "Gaming purchases"},
+    {"id": "TXN-2012", "date": "2024-04-25", "type": "withdrawal", "amount": 22000, "category": "investment", "description": "ETF purchase"}
+  ],
+  "CLT-003": [
+    {"id": "TXN-3001", "date": "2024-01-07", "type": "deposit", "amount": 7900, "category": "pension", "description": "Monthly pension"},
+    {"id": "TXN-3002", "date": "2024-01-15", "type": "withdrawal", "amount": 4200, "category": "utilities", "description": "Home utilities and maintenance"},
+    {"id": "TXN-3003", "date": "2024-01-25", "type": "withdrawal", "amount": 1800, "category": "healthcare", "description": "Prescription medication"},
+    {"id": "TXN-3004", "date": "2024-02-07", "type": "deposit", "amount": 7900, "category": "pension", "description": "Monthly pension"},
+    {"id": "TXN-3005", "date": "2024-02-12", "type": "withdrawal", "amount": 250000, "category": "estate", "description": "Estate transfer to trust — MAJOR"},
+    {"id": "TXN-3006", "date": "2024-02-20", "type": "withdrawal", "amount": 3100, "category": "groceries", "description": "Grocery and personal care"},
+    {"id": "TXN-3007", "date": "2024-03-07", "type": "deposit", "amount": 7900, "category": "pension", "description": "Monthly pension"},
+    {"id": "TXN-3008", "date": "2024-03-18", "type": "withdrawal", "amount": 15000, "category": "charitable", "description": "Charitable donation — Red Cross"},
+    {"id": "TXN-3009", "date": "2024-04-07", "type": "deposit", "amount": 7900, "category": "pension", "description": "Monthly pension"},
+    {"id": "TXN-3010", "date": "2024-04-16", "type": "deposit", "amount": 48000, "category": "dividend", "description": "Annual dividend income"},
+    {"id": "TXN-3011", "date": "2024-04-28", "type": "withdrawal", "amount": 2600, "category": "travel", "description": "Domestic travel"},
+    {"id": "TXN-3012", "date": "2024-05-07", "type": "deposit", "amount": 7900, "category": "pension", "description": "Monthly pension"},
+    {"id": "TXN-3013", "date": "2024-05-14", "type": "withdrawal", "amount": 320000, "category": "estate", "description": "Property transfer — second estate transaction — ANOMALY"}
+  ],
+  "CLT-004": [
+    {"id": "TXN-4001", "date": "2024-01-05", "type": "deposit", "amount": 9500, "category": "salary", "description": "Monthly salary"},
+    {"id": "TXN-4002", "date": "2024-01-12", "type": "withdrawal", "amount": 2100, "category": "rent", "description": "Apartment rent"},
+    {"id": "TXN-4003", "date": "2024-02-05", "type": "deposit", "amount": 9500, "category": "salary", "description": "Monthly salary"},
+    {"id": "TXN-4004", "date": "2024-02-18", "type": "withdrawal", "amount": 15000, "category": "investment", "description": "Brokerage transfer"},
+    {"id": "TXN-4005", "date": "2024-03-05", "type": "deposit", "amount": 9500, "category": "salary", "description": "Monthly salary"},
+    {"id": "TXN-4006", "date": "2024-03-10", "type": "withdrawal", "amount": 35000, "category": "jewelry", "description": "Large luxury purchase — ANOMALY"}
+  ],
+  "CLT-005": [
+    {"id": "TXN-5001", "date": "2024-01-02", "type": "deposit", "amount": 17500, "category": "salary", "description": "Executive salary"},
+    {"id": "TXN-5002", "date": "2024-01-15", "type": "withdrawal", "amount": 4500, "category": "mortgage", "description": "Mortgage payment"},
+    {"id": "TXN-5003", "date": "2024-02-02", "type": "deposit", "amount": 17500, "category": "salary", "description": "Executive salary"},
+    {"id": "TXN-5004", "date": "2024-02-28", "type": "withdrawal", "amount": 12000, "category": "travel", "description": "Luxury vacation booking"},
+    {"id": "TXN-5005", "date": "2024-03-02", "type": "deposit", "amount": 17500, "category": "salary", "description": "Executive salary"},
+    {"id": "TXN-5006", "date": "2024-03-15", "type": "withdrawal", "amount": 85000, "category": "transfer", "description": "Wire transfer to offshore account — MAJOR ANOMALY"}
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "client_id": "CLT-001",
+    "name": "Arjun Sharma",
+    "age": 45,
+    "email": "alex.mercer@example.com",
+    "phone": "+1-555-0123",
+    "address": "123 Maple Street, Springfield, IL, 62704, USA",
+    "marital_status": "Married",
+    "dependents": 2,
+    "portfolio": {
+      "total_value": 1245000,
+      "currency": "USD",
+      "allocations": {
+        "equities": 0.58,
+        "bonds": 0.27,
+        "real_estate": 0.10,
+        "cash": 0.05
+      }
+    },
+    "risk_profile": "moderate",
+    "income": 285000,
+    "expenses": 96000,
+    "goals": ["retirement_at_60", "college_fund", "vacation_home"]
+  },
+  {
+    "client_id": "CLT-002",
+    "name": "Ananya Patel",
+    "age": 34,
+    "email": "marcus.chen@example.com",
+    "phone": "+1-555-0456",
+    "address": "456 Oak Avenue, Austin, TX, 78701, USA",
+    "marital_status": "Single",
+    "dependents": 0,
+    "portfolio": {
+      "total_value": 345000,
+      "currency": "USD",
+      "allocations": {
+        "equities": 0.79,
+        "bonds": 0.12,
+        "real_estate": 0.00,
+        "cash": 0.09
+      }
+    },
+    "risk_profile": "aggressive",
+    "income": 152000,
+    "expenses": 63000,
+    "goals": ["early_retirement", "startup_investment"]
+  },
+  {
+    "client_id": "CLT-003",
+    "name": "Rohan Verma",
+    "age": 62,
+    "email": "eleanor.whitfield@example.com",
+    "phone": "+1-555-0789",
+    "address": "789 Pine Road, Seattle, WA, 98101, USA",
+    "marital_status": "Widowed",
+    "dependents": 0,
+    "portfolio": {
+      "total_value": 3190000,
+      "currency": "USD",
+      "allocations": {
+        "equities": 0.34,
+        "bonds": 0.51,
+        "real_estate": 0.10,
+        "cash": 0.05
+      }
+    },
+    "risk_profile": "conservative",
+    "income": 97000,
+    "expenses": 77000,
+    "goals": ["preserve_capital", "estate_planning", "charitable_giving"]
+  },
+  {
+    "client_id": "CLT-004",
+    "name": "Ravi Patel",
+    "age": 29,
+    "email": "ravi.patel@example.com",
+    "phone": "+1-555-0110",
+    "address": "321 Birch Lane, Denver, CO, 80203, USA",
+    "marital_status": "Engaged",
+    "dependents": 0,
+    "portfolio": {
+      "total_value": 210000,
+      "currency": "USD",
+      "allocations": {
+        "equities": 0.65,
+        "bonds": 0.20,
+        "real_estate": 0.05,
+        "cash": 0.10
+      }
+    },
+    "risk_profile": "moderate",
+    "income": 115000,
+    "expenses": 58000,
+    "goals": ["first_home_purchase", "retirement_at_65"]
+  },
+  {
+    "client_id": "CLT-005",
+    "name": "Vikram Singh",
+    "age": 52,
+    "email": "sofia.garcia@example.com",
+    "phone": "+1-555-0222",
+    "address": "654 Cedar Blvd, Miami, FL, 33101, USA",
+    "marital_status": "Divorced",
+    "dependents": 1,
+    "portfolio": {
+      "total_value": 850000,
+      "currency": "USD",
+      "allocations": {
+        "equities": 0.48,
+        "bonds": 0.32,
+        "real_estate": 0.15,
+        "cash": 0.05
+      }
+    },
+    "risk_profile": "balanced",
+    "income": 210000,
+    "expenses": 95000,
+    "goals": ["college_fund", "travel_retirement"]
+  }
+]
