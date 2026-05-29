@@ -24,12 +24,9 @@ cd frontend
 npm install
 npm run dev
 
-Once it's ready, just head over to http://localhost:3000 (or whatever port it gives you) in your browser.
+Once it's ready, just head over to http://localhost:3000 
 
-A Few Notes on How It's Built
 
-No heavy AI frameworks: I decided to just build the agent classes from scratch in Python rather than using something heavy like LangChain. It makes it much easier to debug and figure out what's actually happening under the hood.
 
-Memory: Everything happening right now is stored in-memory while the workflow runs, but final reports and decisions are saved into a simple local SQLite file (memory.db).
+<img width="1635" height="791" alt="Screenshot 2026-05-28 212905" src="https://github.com/user-attachments/assets/1d2f9375-6d41-4572-b767-3c4158b541d0" />
 
-Data: For now, the CRM and market data are just static JSON files in the backend/mock_data folder. 
